@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "slinkybmajor", // Usually your GitHub org/user name.
-  projectName: "slinkit", // Usually your repo name.
+  projectName: "https://slinkybmajor.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
