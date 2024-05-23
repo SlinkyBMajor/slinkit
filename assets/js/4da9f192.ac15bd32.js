@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkslinky_kit=self.webpackChunkslinky_kit||[]).push([[511],{8325:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/slinkit/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
